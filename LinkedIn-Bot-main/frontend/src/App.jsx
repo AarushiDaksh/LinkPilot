@@ -95,7 +95,7 @@ function App() {
  
   return (
     <>
-      <nav className='w-full h-16 bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-600 shadow-2xl flex items-center justify-center relative overflow-hidden'>
+      <nav className='w-full h-15 bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-600 shadow-2xl flex items-center justify-center relative overflow-hidden'>
         <div className='absolute inset-0 bg-gradient-to-r from-cyan-400/20 via-blue-400/20 to-purple-400/20 animate-pulse'></div>
         <h1 className='text-3xl font-bold text-white tracking-wider hover:text-cyan-300 transition-all duration-300 relative z-10 drop-shadow-lg'>LinkPilot</h1>
       </nav>
