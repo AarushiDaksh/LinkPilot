@@ -1,4 +1,4 @@
-# LinkedIn Bot - Frontend & Backend
+# LinkedIn Bot - Frontend & Backend.
 
 This project consists of a React frontend and Node.js backend for automating LinkedIn job applications.
 
